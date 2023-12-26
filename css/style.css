@@ -1,0 +1,44 @@
+
+.navbar {
+    margin-bottom: 0;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .navbar-toggle .icon-bar {
+    background-color: #333;
+  }
+  
+ 
+  .column {
+    border: 4px solid black;
+    background-color: #999999;
+    padding: 10px 15px;
+    margin: 15px 0;
+    position: relative;
+  }
+  
+  
+  
+  
+  #chicken {
+    background-color: #D59898;
+  }
+  
+  #beef {
+    background-color: #C14543;
+    color: white;
+  }
+  
+  #sushi {
+    background-color: #E5D198;
+  }
+  
+  .content {
+    font-weight: bold;
+    margin-top: 30px;
+  }
+  
